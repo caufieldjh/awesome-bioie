@@ -9,6 +9,20 @@ Inspired by [awesome-nlp](https://github.com/keon/awesome-nlp). Please see that 
 _Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
 
 ## Contents
+* [Research Overviews](#research-overviews)
+* [Tutorials](#tutorials)
+ * [Guides](#guides)
+ * [Video Lectures and Online Courses](#video-lectures-and-online-courses)
+ * [Books](#books)
+* [Code Libraries](#code-libraries)
+* [Tools, Platforms, and Services](#tools-platforms-and-services)
+ * [Annotation Tools](#annotation-tools)
+* [Techniques](#techniques)
+ * [Text Embeddings](#text-embeddings)
+  * [Word Embeddings](#word-embeddings)
+  * [Sentence and Language Model Based Word Embeddings](#sentence-and-language-model-based-word-embeddings)
+ * [Question Answering and Knowledge Extraction](#question-answering-and-knowledge-extraction)
+* [Datasets](#datasets)
 * [Credits](#credits)
 * [License](#license)
 
@@ -56,8 +70,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Credits
 [Back to Top](#contents)
+
 [Credits](./CREDITS.md) for initial curators and sources.
 
 ## License
 [Back to Top](#contents)
+
 [License](./LICENSE) - CC0
