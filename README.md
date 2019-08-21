@@ -72,10 +72,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 ## Datasets
-[Back to Top](#contents)
+
+Some of the datasets listed below require a [UMLS Terminology Services (UTS) account](https://www.nlm.nih.gov/databases/umls.html#license_request) to access. Please note that the license granted with the UTS account requires users to submit an annual report about their use of UMLS resources. This is less challenging than it sounds.
 
 ### Annotated Text Data
 * [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) - the Department of Biomedical Informatics (DBMI) at Harvard Medical School manages data for the National NLP Clinical Challenges and the Informatics for Integrating Biology and the Bedside challenges running since 2006. They require registration before access and use. Datasets include a variety of topics. See the [list of data challenges](https://portal.dbmi.hms.harvard.edu/data-challenges/) for individual descriptions.
+* [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223) - 203 ambiguous words and 37,888 automatically extracted instances of their use in biomedical research publications. Requires UTS account.
 
 #### Protein-protein Interaction Annotated Corpora
 Protein-protein interactions are abbreviated as PPI. The following sets are available in [BioC format](http://bioc.sourceforge.net/) and are available courtesy of the [WBI corpora repository](http://corpora.informatik.hu-berlin.de) and were originally derived from the original sets by a [group at Turku University](http://mars.cs.utu.fi/PPICorpora/).
@@ -95,9 +97,10 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 [Back to Top](#contents)
 
 ## Credits
-[Back to Top](#contents)
 
 [Credits](./CREDITS.md) for initial curators and sources.
+
+[Back to Top](#contents)
 
 ## License
 [Back to Top](#contents)
