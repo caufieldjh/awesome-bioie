@@ -11,18 +11,21 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Contents
 * [Research Overviews](#research-overviews)
 * [Tutorials](#tutorials)
- * [Guides](#guides)
- * [Video Lectures and Online Courses](#video-lectures-and-online-courses)
- * [Books](#books)
+  * [Guides](#guides)
+  * [Video Lectures and Online Courses](#video-lectures-and-online-courses)
+  * [Books](#books)
 * [Code Libraries](#code-libraries)
 * [Tools, Platforms, and Services](#tools-platforms-and-services)
- * [Annotation Tools](#annotation-tools)
+  * [Annotation Tools](#annotation-tools)
 * [Techniques](#techniques)
- * [Text Embeddings](#text-embeddings)
-  * [Word Embeddings](#word-embeddings)
-  * [Sentence and Language Model Based Word Embeddings](#sentence-and-language-model-based-word-embeddings)
+  * [Text Embeddings](#text-embeddings)
+    * [Word Embeddings](#word-embeddings)
+    * [Sentence and Language Model Based Word Embeddings](#sentence-and-language-model-based-word-embeddings)
  * [Question Answering and Knowledge Extraction](#question-answering-and-knowledge-extraction)
 * [Datasets](#datasets)
+  * [Annotated Text Data](#annotated-text-data)
+  * [Other Datasets](#other-datasets)
+* [Ontologies and Controlled Vocabularies](#ontologies-and-controlled-vocabularies)
 * [Credits](#credits)
 * [License](#license)
 
@@ -66,6 +69,17 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 ## Datasets
+[Back to Top](#contents)
+
+### Annotated Text Data
+* [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) - the Department of Biomedical Informatics (DBMI) at Harvard Medical School manages data for the National NLP Clinical Challenges and the Informatics for Integrating Biology and the Bedside challenges running since 2006. They require registration before access and use.
+
+[Back to Top](#contents)
+
+### Other Datasets
+[Back to Top](#contents)
+
+## Ontologies and Controlled Vocabularies
 [Back to Top](#contents)
 
 ## Credits
