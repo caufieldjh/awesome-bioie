@@ -94,6 +94,8 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 [Back to Top](#contents)
 
 ## Ontologies and Controlled Vocabularies
+* [SPECIALIST Lexicon](https://lexsrv3.nlm.nih.gov/Specialist/Summary/lexicon.html) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2247735/) - a general English lexicon that includes many biomedical terms. Updated yearly since 1994 and still updated as of 2019. Part of UMLS but does not require UTS account to download.
+
 [Back to Top](#contents)
 
 ## Credits
