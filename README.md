@@ -6,7 +6,7 @@ A curated list of resources dedicated to Biomedical Information Extraction (BioI
 
 Inspired by [awesome-nlp](https://github.com/keon/awesome-nlp). Please see that list for more resources relevant to Natural Language Processing in general.
 
-_Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite NLP resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)_
+_Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
 
 ## Contents
 
