@@ -26,6 +26,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
  * [Question Answering and Knowledge Extraction](#question-answering-and-knowledge-extraction)
 * [Datasets](#datasets)
   * [Annotated Text Data](#annotated-text-data)
+    * [Protein-protein Interaction Annotated Corpora](#Protein-protein-interaction-annotated-corpora)
   * [Other Datasets](#other-datasets)
 * [Ontologies and Controlled Vocabularies](#ontologies-and-controlled-vocabularies)
 * [Credits](#credits)
@@ -75,7 +76,11 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### Annotated Text Data
 * [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) - the Department of Biomedical Informatics (DBMI) at Harvard Medical School manages data for the National NLP Clinical Challenges and the Informatics for Integrating Biology and the Bedside challenges running since 2006. They require registration before access and use. Datasets include a variety of topics. See the [list of data challenges](https://portal.dbmi.hms.harvard.edu/data-challenges/) for individual descriptions.
-  
+
+#### Protein-protein Interaction Annotated Corpora
+Protein-protein interactions are abbreviated as PPI. The following sets are available in [BioC format](http://bioc.sourceforge.net/) and are available courtesy of the [WBI corpora repository](http://corpora.informatik.hu-berlin.de).
+
+* [AIMed](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/aimed_bioc.xml.zip) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/15811782) - 225 MEDLINE abstracts annotated for PPI.
 
 [Back to Top](#contents)
 
