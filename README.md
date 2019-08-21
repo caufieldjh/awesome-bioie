@@ -17,6 +17,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
   * [Video Lectures and Online Courses](#video-lectures-and-online-courses)
   * [Books](#books)
 * [Code Libraries](#code-libraries)
+  * [Repos for Specific Datasets](#repos-for-specific-datasets)
 * [Tools, Platforms, and Services](#tools-platforms-and-services)
   * [Annotation Tools](#annotation-tools)
 * [Techniques](#techniques)
@@ -48,6 +49,11 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 ## Code Libraries
+
+### Repos for Specific Datasets
+
+* [mimic-code](https://github.com/MIT-LCP/mimic-code) - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials).
+
 [Back to Top](#contents)
 
 ## Tools, Platforms, and Services
@@ -83,7 +89,6 @@ The following resources contain indexed text documents in the biomedical science
 
 ### Annotated Text Data
 
-
 * [n2c2 (formerly i2b2) Data](https://portal.dbmi.hms.harvard.edu/projects/n2c2-nlp/) - the Department of Biomedical Informatics (DBMI) at Harvard Medical School manages data for the National NLP Clinical Challenges and the Informatics for Integrating Biology and the Bedside challenges running since 2006. They require registration before access and use. Datasets include a variety of topics. See the [list of data challenges](https://portal.dbmi.hms.harvard.edu/data-challenges/) for individual descriptions.
 * [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223) - 203 ambiguous words and 37,888 automatically extracted instances of their use in biomedical research publications. Requires UTS account.
 
@@ -99,6 +104,9 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 [Back to Top](#contents)
 
 ### Other Datasets
+
+*[MIMIC-III](https://mimic.physionet.org/) - [paper](https://www.nature.com/articles/sdata201635) - deidentified health data from ~60,000 intensive care unit admissions. Requires completion of an online training course (CITI training) and acceptance of a data use agreement prior to use.
+
 [Back to Top](#contents)
 
 ## Ontologies and Controlled Vocabularies
