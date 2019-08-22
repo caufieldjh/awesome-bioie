@@ -83,10 +83,10 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 #### Word Embeddings
-[Back to Top](#contents)
+
+* [BioWordVec](https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647) - [paper](https://www.nature.com/articles/s41597-019-0055-0) - [code](https://github.com/ncbi-nlp/BioWordVec) - word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH.
 
 #### Sentence and Language Model Based Word Embeddings
-[Back to Top](#contents)
 
 ### Question Answering and Knowledge Extraction
 [Back to Top](#contents)
