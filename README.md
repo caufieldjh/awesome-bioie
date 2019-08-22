@@ -60,6 +60,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 ### Annotation Tools
+
+* [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) - the brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [_stav_ tool](https://github.com/nlplab/stav/). 
+
 [Back to Top](#contents)
 
 ## Techniques
