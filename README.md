@@ -36,6 +36,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [License](#license)
 
 ## Research Overviews
+
+* [Mining Electronic Health Records (EHRs): A Survey](https://arxiv.org/abs/1702.03222) - a review of the methods and philosophy behind mining electronic health records, including using them for adverse event detection. See Table 2 for a list of relevant papers as of mid-2017.
+
 [Back to Top](#contents)
 
 ## Tutorials
@@ -59,6 +62,9 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 ## Tools, Platforms, and Services
+
+* [CLAMP](https://clamp.uth.edu/) - [paper](https://academic.oup.com/jamia/article/25/3/331/4657212) - a natural language processing toolkit intended for use with the text in clinical reports. Check out their [live demo](https://clamp.uth.edu/clampdemo.php) first to see what it does. Usable at no cost for academic research.  
+
 [Back to Top](#contents)
 
 ### Annotation Tools
