@@ -97,6 +97,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 #### Sentence and Language Model Based Word Embeddings
 
+* [BioBERT](https://github.com/naver/biobert-pretrained) - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) - a PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
+
 ### Question Answering and Knowledge Extraction
 [Back to Top](#contents)
 
