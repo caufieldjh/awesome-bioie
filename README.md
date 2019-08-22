@@ -59,6 +59,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Code Libraries
 
+* [medaCy](https://github.com/NLPatVCU/medaCy) - a system for building predictive medical natural language processing models. Build on the [spaCy](https://spacy.io/) framework. 
+
 ### Repos for Specific Datasets
 
 * [mimic-code](https://github.com/MIT-LCP/mimic-code) - Code associated with the MIMIC-III dataset (see below). Includes some helpful [tutorials](https://github.com/MIT-LCP/mimic-code/tree/master/tutorials).
