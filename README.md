@@ -80,7 +80,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 ### Text Embeddings
-[Back to Top](#contents)
+
+[This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825) demonstrates how text embeddings trained on biomedical or clinical text can, but don't always, perform better on biomedical natural language processing tasks. That being said, pre-trained embeddings may be appropriate for your needs, especially as training domain-specific embeddings can be computationally intensive.
 
 #### Word Embeddings
 
