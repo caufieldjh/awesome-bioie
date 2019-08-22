@@ -34,6 +34,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
     * [Protein-protein Interaction Annotated Corpora](#Protein-protein-interaction-annotated-corpora)
   * [Other Datasets](#other-datasets)
 * [Ontologies and Controlled Vocabularies](#ontologies-and-controlled-vocabularies)
+* [Data Models](#data-models)
 * [Credits](#credits)
 * [License](#license)
 
@@ -147,13 +148,18 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 [Back to Top](#contents)
 
+## Data Models
+
+Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are working with biomedical data, then the answer is probably "Yes".
+
+* [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) - a data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
+
+[Back to Top](#contents)
+
 ## Credits
 
 [Credits](./CREDITS.md) for initial curators and sources.
 
-[Back to Top](#contents)
-
 ## License
-[Back to Top](#contents)
 
 [License](./LICENSE) - CC0
