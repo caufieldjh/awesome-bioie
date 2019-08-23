@@ -77,6 +77,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ### Guides
 
+* [Getting Started in Text Mining]() - a brief introduction to bio-text mining from Cohen and Hunter. More than ten years old but still quite relevant. See also an [earlier paper by the same authors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1702322/).
+
 ### Video Lectures and Online Courses
 * [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
 
