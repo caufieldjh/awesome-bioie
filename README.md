@@ -76,7 +76,6 @@ Biomedical IE, text mining, natural language processing, and data management is 
 The field changes rapidly enough that tutorials any older than a few years are missing crucial details. A few more recent educational resources are listed below. A good foundational understanding of text mining techniques is very helpful, as is some basic experience with the Python and or R languages. Starting with the [NLTK tutorials](https://www.nltk.org/book/) and then trying out the tutorials for the [Flair framework](https://github.com/zalandoresearch/flair) will provide excellent examples of natural language processing, text mining, and modern machine learning-driven methods, all in Python. Most of the examples don't include anything biomedical, however, so the best option may be to learn by doing.
 
 ### Guides
-[Back to Top](#contents)
 
 ### Video Lectures and Online Courses
 * [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
@@ -100,8 +99,6 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [CLAMP](https://clamp.uth.edu/) - [paper](https://academic.oup.com/jamia/article/25/3/331/4657212) - a natural language processing toolkit intended for use with the text in clinical reports. Check out their [live demo](https://clamp.uth.edu/clampdemo.php) first to see what it does. Usable at no cost for academic research.
 * [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - a web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
 
-[Back to Top](#contents)
-
 ### Annotation Tools
 
 * [brat](https://brat.nlplab.org/) - [paper](https://www.aclweb.org/anthology/E12-2021/) - [code](https://github.com/nlplab/brat) - the brat rapid annotation tool. Supports producing text annotations visually, through the browser. Not subject specific; appropriate for many annotation projects. Visualization is based on that of the [_stav_ tool](https://github.com/nlplab/stav/). 
@@ -109,7 +106,6 @@ The field changes rapidly enough that tutorials any older than a few years are m
 [Back to Top](#contents)
 
 ## Techniques
-[Back to Top](#contents)
 
 ### Text Embeddings
 
@@ -124,7 +120,6 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 * [BioBERT](https://github.com/naver/biobert-pretrained) - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) - a PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
 
-### Question Answering and Knowledge Extraction
 [Back to Top](#contents)
 
 ## Datasets
@@ -159,8 +154,6 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 * [HPRD50](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/hprd50_bioc.xml.zip) - [paper](https://academic.oup.com/bioinformatics/article/23/3/365/236564) - 50 scientific abstracts referenced by the Human Protein Reference Database, annotated for PPI
 * [IEPA](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/iepa_bioc.xml.zip) - [paper](http://psb.stanford.edu/psb-online/proceedings/psb02/abstracts/p326.html) - 486 sentences from biomedical research abstracts annotated for pairs of co-occurring chemicals, including proteins (hence, PPI annotations).
 * [LLL](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/lll_bioc.xml.zip) - [paper](https://www.semanticscholar.org/paper/Learning-Language-in-Logic-Genic-Interaction-Nedellec/0863a9d71955341b7e1a6a6877d44d4f0bb22671) - 77 sentences from research articles about the bacterium _Bacillus subtilis_, annotated for protein–gene interactions (so, fairly close to PPI annotations). [Additional information is here.](http://genome.jouy.inra.fr/texte/LLLchallenge/#task1)
-
-[Back to Top](#contents)
 
 ### Other Datasets
 
