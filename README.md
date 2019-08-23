@@ -16,6 +16,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Contents
 * [Research Overviews](#research-overviews)
+* [Groups Active in the Field](#groups-active-in-the-field)
 * [Tutorials](#tutorials)
   * [Guides](#guides)
   * [Video Lectures and Online Courses](#video-lectures-and-online-courses)
@@ -43,6 +44,30 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Literature Based Discovery: Models, methods, and trends](https://www.sciencedirect.com/science/article/pii/S1532046417301909) - a review of Literature Based Discovery (LBD), or the philosophy that meaningful connections may be found between seemingly unrelated scientific literature. 
   * For some historical context on LBD, see papers by University of Chicago's Don Swanson and Neil Smalheiser, including [_Undiscovered Public Knowledge_](https://www.jstor.org/stable/4307965) (paywalled) and [_Rediscovering Don Swanson: the Past, Present and Future of Literature-Based Discovery_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771422/).
 * [Mining Electronic Health Records (EHRs): A Survey](https://arxiv.org/abs/1702.03222) - a review of the methods and philosophy behind mining electronic health records, including using them for adverse event detection. See Table 2 for a list of relevant papers as of mid-2017.
+
+[Back to Top](#contents)
+
+## Groups Active in the Field
+Biomedical IE, text mining, natural language processing, and data management is an active field of research and development with a rich history. Some research groups have roots in medical libraries and are primarily concerned with how to best organize biomedical literature and data. Others approach biomedical questions from a computer science perspective. Still other groups are based in biology and medicine, but have found that computational strategies for learning from large datasets are informative and useful. Because of the interdisciplinary nature of much of this work, it may be described in a variety of terms, including _(bio)medical informatics_, _computational biology_, or _bioinformatics_ (though the last of these generally concerns structured data such as DNA or protein sequences). The following groups have not been separated on the basis of their perspectives (as with all other sections, this list is vastly incomplete).
+
+* [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) - Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project.
+
+* [BD2K](https://commonfund.nih.gov/bd2k) - the U.S. National Institutes of Health (NIH) funded 13 Centers of Excellence through their Big Data to Knowledge (BD2K) program, several of which developed tools and resources for BioIE.
+  * [HeartBD2K](http://www.heartbd2k.org/) - based at University of California, Los Angeles (UCLA). Led by Dr. Peipei Ping.
+  * [KnowEng](https://knoweng.org/about/people/) - based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han.
+  * [Mobilize](http://mobilize.stanford.edu/) - based at Stanford. Led by Dr. Scott Delp.
+
+* [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - based at the National Center for Biotechnology Information (NCBI) of the National Library of Medicine (NLM) in the U.S. National Institutes of Health (NIH). Develops improvements to biomedical literature search and curation (e.g., through PubMed). Led by Dr. Zhiyong Lu.   
+
+* [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver. Led by Larry Hunter. [See their GitHub repos here.](https://github.com/UCDenver-ccp)
+
+* [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - based at the University of Manchester, NaCTeM is concerned with text mining in general but has a particular focus on biomedical applications. Its director is Prof. Sophia Ananiadou.
+
+* [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - Several groups at Mayo Clinic have made major contributions to BioIE over the past 20 years. The Apace cTAKES platform was developed here. The program is led by Dr. Hongfang Liu.
+
+* [TurkuNLP](https://turkunlp.org/) - based at the University of Turku. Concerned with NLP in general with a focus on BioNLP and clinical applications.
+
+* [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - based at Virginia Commonwealth University. Led by Dr. Bridget McInnes.
 
 [Back to Top](#contents)
 
