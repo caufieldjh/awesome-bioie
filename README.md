@@ -4,6 +4,8 @@
 
 A curated list of resources dedicated to Biomedical Information Extraction (BioIE).
 
+![Awesome BioIE Logo](/images/abie_head.jpg)
+
 What is BioIE? It includes any effort to extract structured information from _unstructured_ (or, at least inconsistently structured) biological, clinical, or other biomedical data. The data source is often some collection of text documents written in technical language. If the resulting information is verifiable and consistent across sources, we may then consider it _knowledge_. Extracting information and producing knowledge from bio data requires adaptations upon methods developed for other types of unstructured data.
 
 Inspired by [awesome-nlp](https://github.com/keon/awesome-nlp). Please see that list for more resources relevant to Natural Language Processing in general. See also [awesome-biology](https://github.com/raivivek/awesome-biology) and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics).
