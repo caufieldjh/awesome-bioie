@@ -88,7 +88,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
-* [medaCy](https://github.com/NLPatVCU/medaCy) - a system for building predictive medical natural language processing models. Build on the [spaCy](https://spacy.io/) framework. 
+* [medaCy](https://github.com/NLPatVCU/medaCy) - a system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework. 
+* [ScispaCy](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 
 ### Repos for Specific Datasets
 
