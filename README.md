@@ -67,6 +67,8 @@ Biomedical IE, text mining, natural language processing, and data management is 
 
 * [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - Several groups at Mayo Clinic have made major contributions to BioIE over the past 20 years. The Apace cTAKES platform was developed here. The program is led by Dr. Hongfang Liu.
 
+* [Monarch Initiative](https://monarchinitiative.org/) - a joint effort between groups at Oregon State University, Oregon Health & Science University, Lawrence Berkeley National Lab, The Jackson Laboratory, and several others. Seeking to "...integrate biological information using semantics, and present it in a novel way, leveraging phenotypes to bridge the knowledge gap".
+
 * [TurkuNLP](https://turkunlp.org/) - based at the University of Turku. Concerned with NLP in general with a focus on BioNLP and clinical applications.
 
 * [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - based at Virginia Commonwealth University. Led by Dr. Bridget McInnes.
