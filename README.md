@@ -82,8 +82,6 @@ The field changes rapidly enough that tutorials any older than a few years are m
 ### Video Lectures and Online Courses
 * [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
 
-### Books
-
 [Back to Top](#contents)
 
 ## Code Libraries
