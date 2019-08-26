@@ -80,6 +80,7 @@ Biomedical IE, text mining, natural language processing, and data management is 
 
 ## Organizations
 
+* [AMIA](https://www.amia.org/) - many—but certainly not all—individuals studying biomedical informatics are members of the American Medical Informatics Association. AMIA publishes a journal, JAMIA (see below).
 
 [Back to Top](#contents)
 
