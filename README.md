@@ -19,6 +19,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Contents
 * [Research Overviews](#research-overviews)
 * [Groups Active in the Field](#groups-active-in-the-field)
+* [Organizations](#organizations)
+* [Journals and Events](#journals-and-events)
 * [Tutorials](#tutorials)
   * [Guides](#guides)
   * [Video Lectures and Online Courses](#video-lectures-and-online-courses)
@@ -75,6 +77,14 @@ Biomedical IE, text mining, natural language processing, and data management is 
 * [TurkuNLP](https://turkunlp.org/) - based at the University of Turku. Concerned with NLP in general with a focus on BioNLP and clinical applications.
 
 * [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - based at Virginia Commonwealth University. Led by Dr. Bridget McInnes.
+
+## Organizations
+
+
+[Back to Top](#contents)
+
+## Journals and Events
+
 
 [Back to Top](#contents)
 
