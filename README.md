@@ -104,9 +104,10 @@ For preprints, try [arXiv](https://arxiv.org), especially the subject Computatio
 
 #### Challenges
 
-Some events in BioIE are organized around formal challenges in which groups develop their own computational solutions, given a dataset.
+Some events in BioIE are organized around formal tasks and challenges in which groups develop their own computational solutions, given a dataset.
 
 * [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) - these workshops have been organized since 2004, with the most recent, BioCreative VI, happening February 2017. It is unclear if the workshop is continuing but the community remains active.
+* [SemEval workshop](http://alt.qcri.org/semeval2020/) - tasks and evaluations in computational semantic analysis. Tasks vary by year but frequently cover scientific and/or biomedical language, e.g. the [SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers](https://competitions.codalab.org/competitions/19948).
 
 [Back to Top](#contents)
 
