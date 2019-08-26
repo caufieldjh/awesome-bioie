@@ -100,7 +100,9 @@ For preprints, try [arXiv](https://arxiv.org), especially the subjects Computati
 
 ### Conferences and Other Events
 
+* [BIBM](http://ieeebibm.org/BIBM2019/) - the IEEE International Conference on Bioinformatics and Biomedicine.
 * [ISMB](https://www.iscb.org/about-ismb) - the International Conference on Intelligent Systems for Molecular Biology is an annual conference hosted by the International Society for Computational Biology since 1993. Much of its focus has concerned bioinformatics and computational biology without an explicit clinical focus, though it has included an increasing amount of text mining content (e.g., the 2019 meeting included a [full-day special session on Text Mining for Biology and Healthcare](http://cosi.iscb.org/wiki/TextMining:Home)). The meeting is combined with that of the European Conference on Computational Biology (ECCB) on odd-numbered years.
+* [PSB](https://psb.stanford.edu/) - the Pacific Symposium on Biocomputing.
 
 #### Challenges
 
