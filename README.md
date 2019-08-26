@@ -21,10 +21,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Groups Active in the Field](#groups-active-in-the-field)
 * [Organizations](#organizations)
 * [Journals and Events](#journals-and-events)
+  * [Journals](#journals)
+  * [Conferences and Other Events](#conferences-and-other-events)
+    * [Challenges](#challenges)
 * [Tutorials](#tutorials)
   * [Guides](#guides)
   * [Video Lectures and Online Courses](#video-lectures-and-online-courses)
-  * [Books](#books)
 * [Code Libraries](#code-libraries)
   * [Repos for Specific Datasets](#repos-for-specific-datasets)
 * [Tools, Platforms, and Services](#tools-platforms-and-services)
@@ -90,6 +92,10 @@ The interdisciplinary nature of BioIE means researchers in this space may share 
 ### Journals
 
 ### Conferences and Other Events
+
+#### Challenges
+
+Some events in BioIE are organized around formal challenges in which groups develop their own computational solutions, given a dataset.
 
 
 [Back to Top](#contents)
