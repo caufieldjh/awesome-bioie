@@ -33,7 +33,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
   * [Text Embeddings](#text-embeddings)
     * [Word Embeddings](#word-embeddings)
     * [Sentence and Language Model Based Word Embeddings](#sentence-and-language-model-based-word-embeddings)
- * [Question Answering and Knowledge Extraction](#question-answering-and-knowledge-extraction)
 * [Datasets](#datasets)
   * [Annotated Text Data](#annotated-text-data)
     * [Protein-protein Interaction Annotated Corpora](#Protein-protein-interaction-annotated-corpora)
