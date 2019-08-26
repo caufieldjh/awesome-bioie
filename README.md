@@ -85,6 +85,12 @@ Biomedical IE, text mining, natural language processing, and data management is 
 
 ## Journals and Events
 
+The interdisciplinary nature of BioIE means researchers in this space may share their findings and tools in a variety of ways. They may publish papers in journals, as is common in the biomedical and life sciences. They may publish conference papers and, upon acceptance, give a poster and/or oral presentation at an event; this is common practice in computer science and engineering fields. Conference papers are often published in collections of proceedings. Preprint publication is an increasingly popular and institutionally-accepted way to publish findings as well. Surrounding these formal, written products are the ideas of [open science](https://en.wikipedia.org/wiki/Open_science), open data, and open source: the code, data, and software BioIE researchers develop are valuable resources to the community.
+
+### Journals
+
+### Conferences and Other Events
+
 
 [Back to Top](#contents)
 
