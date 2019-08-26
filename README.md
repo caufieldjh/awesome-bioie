@@ -62,6 +62,8 @@ Biomedical IE, text mining, natural language processing, and data management is 
 
 * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - based at the National Center for Biotechnology Information (NCBI) of the National Library of Medicine (NLM) in the U.S. National Institutes of Health (NIH). Develops improvements to biomedical literature search and curation (e.g., through PubMed). Led by Dr. Zhiyong Lu.   
 
+* [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - based at Brown University. Its director is Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
+
 * [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver. Led by Larry Hunter. [See their GitHub repos here.](https://github.com/UCDenver-ccp)
 
 * [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - based at the University of Manchester, NaCTeM is concerned with text mining in general but has a particular focus on biomedical applications. Its director is Prof. Sophia Ananiadou.
