@@ -63,7 +63,9 @@ Biomedical IE, text mining, natural language processing, and data management is 
   * [KnowEng](https://knoweng.org/about/people/) - based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han.
   * [Mobilize](http://mobilize.stanford.edu/) - based at Stanford. Led by Dr. Scott Delp.
 
-* [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - based at the National Center for Biotechnology Information (NCBI) of the National Library of Medicine (NLM) in the U.S. National Institutes of Health (NIH). Develops improvements to biomedical literature search and curation (e.g., through PubMed). Led by Dr. Zhiyong Lu.   
+* Groups at U.S. National Institutes of Health (NIH) / National Library of Medicine (NLM):
+  * [Demner-Fushman group at NLM](https://www.lhncbc.nlm.nih.gov/personnel/dina-demner-fushman)
+  * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - based at the National Center for Biotechnology Information (NCBI). Develops improvements to biomedical literature search and curation (e.g., through PubMed). Led by Dr. Zhiyong Lu.   
 
 * [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - based at Brown University. Its director is Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
 
