@@ -91,6 +91,10 @@ The interdisciplinary nature of BioIE means researchers in this space may share 
 
 ### Journals
 
+* [NAR](https://academic.oup.com/nar) - Nucleic Acids Research. Has a broad biomolecular focus but is particularly notable for its annual database issue.
+* [JAMIA](https://academic.oup.com/jamia) - the Journal of the American Medical Informatics Association. Concerns "articles in the areas of clinical care, clinical research, translational science, implementation science, imaging, education, consumer health, public health, and policy".
+* [Scientific Data](https://www.nature.com/sdata/) - an open-access Springer Nature journal publishing "descriptions of scientifically valuable datasets, and research that advances the sharing and reuse of scientific data".
+
 ### Conferences and Other Events
 
 * [ISMB](https://www.iscb.org/about-ismb) - the International Conference on Intelligent Systems for Molecular Biology is an annual conference hosted by the International Society for Computational Biology since 1993. Much of its focus has concerned bioinformatics and computational biology without an explicit clinical focus, though it has included an increasing amount of text mining content (e.g., the 2019 meeting included a [full-day special session on Text Mining for Biology and Healthcare](http://cosi.iscb.org/wiki/TextMining:Home)). The meeting is combined with that of the European Conference on Computational Biology (ECCB) on odd-numbered years.
