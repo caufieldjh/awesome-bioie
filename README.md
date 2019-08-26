@@ -130,6 +130,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 ## Code Libraries
 
+* [Bio-SCoRes](https://github.com/kilicogluh/Bio-SCoRes) - [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0148538) - a framework for biomedical coreference resolution.
 * [medaCy](https://github.com/NLPatVCU/medaCy) - a system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework. 
 * [ScispaCy](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 
