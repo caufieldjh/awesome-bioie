@@ -83,6 +83,8 @@ Biomedical IE, text mining, natural language processing, and data management is 
 
 * [Zaklab](http://zaklab.org) - group led by Dr. Isaac Kohane at Harvard Medical School's Department of Biomedical Informatics. Dr. Kohane is also a steward of the n2c2 (formerly i2b2) datasets - see [Datasets](#datasets) below.
 
+[Back to Top](#contents)
+
 ## Organizations
 
 * [AMIA](https://www.amia.org/) - many—but certainly not all—individuals studying biomedical informatics are members of the American Medical Informatics Association. AMIA publishes a journal, JAMIA (see below).
