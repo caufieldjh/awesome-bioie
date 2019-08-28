@@ -101,6 +101,7 @@ The interdisciplinary nature of BioIE means researchers in this space may share 
 
 For preprints, try [arXiv](https://arxiv.org), especially the subjects Computation and Language (cs.CL) and Information Retrieval (cs.IR); [bioRxiv](https://www.biorxiv.org/); or [medRxiv](https://www.medrxiv.org/), especially the Health Informatics subject area.
 
+* [Database](https://academic.oup.com/database) - its subtitle is "The Journal of Biological Databases and Curation". Open access.
 * [NAR](https://academic.oup.com/nar) - Nucleic Acids Research. Has a broad biomolecular focus but is particularly notable for its annual database issue.
 * [JAMIA](https://academic.oup.com/jamia) - the Journal of the American Medical Informatics Association. Concerns "articles in the areas of clinical care, clinical research, translational science, implementation science, imaging, education, consumer health, public health, and policy".
 * [JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics) - the Journal of Biomedical Informatics. Not open access by default, though it does have an open-access "X" version.
