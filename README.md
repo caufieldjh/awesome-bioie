@@ -176,6 +176,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 #### Language Model Based Embeddings
 
 * [BioBERT](https://github.com/naver/biobert-pretrained) - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) - a PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
+* [ClinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) - [paper](https://arxiv.org/abs/1904.05342) - BERT trained on the text of clinical notes from the MIMIC-III dataset.
 
 [Back to Top](#contents)
 
