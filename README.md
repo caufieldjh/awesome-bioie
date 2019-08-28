@@ -63,13 +63,13 @@ Biomedical IE, text mining, natural language processing, and data management is 
   * [KnowEng](https://knoweng.org/about/people/) - based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han.
   * [Mobilize](http://mobilize.stanford.edu/) - based at Stanford. Led by Dr. Scott Delp.
 
-* Groups at U.S. National Institutes of Health (NIH) / National Library of Medicine (NLM):
-  * [Demner-Fushman group at NLM](https://www.lhncbc.nlm.nih.gov/personnel/dina-demner-fushman)
-  * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - based at the National Center for Biotechnology Information (NCBI). Develops improvements to biomedical literature search and curation (e.g., through PubMed). Led by Dr. Zhiyong Lu.   
-
 * [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - based at Brown University. Its director is Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
 
 * [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver. Led by Larry Hunter. [See their GitHub repos here.](https://github.com/UCDenver-ccp)
+
+* Groups at U.S. National Institutes of Health (NIH) / National Library of Medicine (NLM):
+  * [Demner-Fushman group at NLM](https://www.lhncbc.nlm.nih.gov/personnel/dina-demner-fushman)
+  * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - based at the National Center for Biotechnology Information (NCBI). Develops improvements to biomedical literature search and curation (e.g., through PubMed). Led by Dr. Zhiyong Lu.
 
 * [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - based at the University of Manchester, NaCTeM is concerned with text mining in general but has a particular focus on biomedical applications. Its director is Prof. Sophia Ananiadou.
 
@@ -78,6 +78,8 @@ Biomedical IE, text mining, natural language processing, and data management is 
 * [Monarch Initiative](https://monarchinitiative.org/) - a joint effort between groups at Oregon State University, Oregon Health & Science University, Lawrence Berkeley National Lab, The Jackson Laboratory, and several others. Seeking to "...integrate biological information using semantics, and present it in a novel way, leveraging phenotypes to bridge the knowledge gap".
 
 * [TurkuNLP](https://turkunlp.org/) - based at the University of Turku. Concerned with NLP in general with a focus on BioNLP and clinical applications.
+
+* [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) - based in the University of Texas Health Science Center at Houston, School of Biomedical Informatics. Led by Dr. Hua Xu.
 
 * [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - based at Virginia Commonwealth University. Led by Dr. Bridget McInnes.
 
@@ -150,7 +152,8 @@ The field changes rapidly enough that tutorials any older than a few years are m
 ## Tools, Platforms, and Services
 
 * [CLAMP](https://clamp.uth.edu/) - [paper](https://academic.oup.com/jamia/article/25/3/331/4657212) - a natural language processing toolkit intended for use with the text in clinical reports. Check out their [live demo](https://clamp.uth.edu/clampdemo.php) first to see what it does. Usable at no cost for academic research.
-* [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - a web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
+* [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper]
+(https://academic.oup.com/nar/article/47/W1/W587/5494727) - a web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
 
 ### Annotation Tools
 
