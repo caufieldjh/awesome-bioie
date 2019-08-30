@@ -72,6 +72,8 @@ Biomedical IE, text mining, natural language processing, and data management is 
   * [Demner-Fushman group at NLM](https://www.lhncbc.nlm.nih.gov/personnel/dina-demner-fushman)
   * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - based at the National Center for Biotechnology Information (NCBI). Develops improvements to biomedical literature search and curation (e.g., through PubMed). Led by Dr. Zhiyong Lu.
 
+* [JensenLab](https://jensenlab.org/) - based at the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen, Denmark. Led by Dr. Lars Juhl Jensen. 
+
 * [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - based at the University of Manchester, NaCTeM is concerned with text mining in general but has a particular focus on biomedical applications. Its director is Prof. Sophia Ananiadou.
 
 * [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - Several groups at Mayo Clinic have made major contributions to BioIE over the past 20 years. The Apace cTAKES platform was developed here. The program is led by Dr. Hongfang Liu.
