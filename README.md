@@ -137,7 +137,10 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [Biomedical Literature Mining](https://link.springer.com/book/10.1007/978-1-4939-0709-0) - a (non-free) volume of Methods in Molecular Biology from 2014. Chapters covers introductory principles in text mining, applications in the biological sciences, and potential for use in clinical or medical safety scenarios. 
 
 ### Video Lectures and Online Courses
+
 * [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
+* [JensenLab text mining exercises](https://jensenlab.org/training/textmining/)
+* [VIB text mining and curation training](https://www.bits.vib.be/training-list/111-bits/training/previous-trainings/183-text-mining) - this training workshop happenened in 2013 but the slides are still online.
 
 [Back to Top](#contents)
 
