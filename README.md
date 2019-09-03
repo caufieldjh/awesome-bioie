@@ -162,6 +162,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [CLAMP](https://clamp.uth.edu/) - [paper](https://academic.oup.com/jamia/article/25/3/331/4657212) - a natural language processing toolkit intended for use with the text in clinical reports. Check out their [live demo](https://clamp.uth.edu/clampdemo.php) first to see what it does. Usable at no cost for academic research.
 * [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper]
 (https://academic.oup.com/nar/article/47/W1/W587/5494727) - a web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
+* [Pubrunner](https://github.com/jakelever/pubrunner) - a framework for running text mining tools on the newest set(s) of documents from PubMed.
 
 ### Annotation Tools
 
