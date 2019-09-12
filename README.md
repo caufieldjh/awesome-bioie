@@ -165,8 +165,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [cTAKES](https://ctakes.apache.org/) - [paper](https://academic.oup.com/jamia/article/17/5/507/830823) - [code](https://github.com/apache/ctakes) - a system for processing the text in electronic medical records. Widely used and open source. 
 * [CLAMP](https://clamp.uth.edu/) - [paper](https://academic.oup.com/jamia/article/25/3/331/4657212) - a natural language processing toolkit intended for use with the text in clinical reports. Check out their [live demo](https://clamp.uth.edu/clampdemo.php) first to see what it does. Usable at no cost for academic research.
 * [DeepPhe](https://github.com/DeepPhe/DeepPhe-Release) - a system for processing documents describing cancer presentations. Based on cTAKES (see above).
-* [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper]
-(https://academic.oup.com/nar/article/47/W1/W587/5494727) - a web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
+* [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - a web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
 * [Pubrunner](https://github.com/jakelever/pubrunner) - a framework for running text mining tools on the newest set(s) of documents from PubMed.
 
 ### Annotation Tools
