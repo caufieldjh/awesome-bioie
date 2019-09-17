@@ -167,6 +167,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [DeepPhe](https://github.com/DeepPhe/DeepPhe-Release) - a system for processing documents describing cancer presentations. Based on cTAKES (see above).
 * [PubTator Central](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - a web platform that identifies five different types of biomedical concepts in PubMed articles and PubMed Central full texts. The full annotation sets are downloadable (see [Annotated Text Data](#annotated-text-data) below).
 * [Pubrunner](https://github.com/jakelever/pubrunner) - a framework for running text mining tools on the newest set(s) of documents from PubMed.
+* [SemEHR](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 
 ### Annotation Tools
 
