@@ -234,7 +234,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 ### Other Datasets
 
 * [MIMIC-III](https://mimic.physionet.org/) - [paper](https://www.nature.com/articles/sdata201635) - deidentified health data from ~60,000 intensive care unit admissions. Requires completion of an online training course (CITI training) and acceptance of a data use agreement prior to use.
-* [UMLS Knowledge Sources](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html) - [reference manual](https://www.ncbi.nlm.nih.gov/books/NBK9676/) - a large and comprehensive collection of biomedical terminology and identifiers, as well as accompanying tools and scripts. Depending on your purposes, the single file MRCONSO.RRF may be sufficient, as this file contains unique identifiers and names for all concepts in the UMLS Metathesaurus. 
+* [UMLS Knowledge Sources](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html) - [reference manual](https://www.ncbi.nlm.nih.gov/books/NBK9676/) - a large and comprehensive collection of biomedical terminology and identifiers, as well as accompanying tools and scripts. Depending on your purposes, the single file MRCONSO.RRF may be sufficient, as this file contains unique identifiers and names for all concepts in the UMLS Metathesaurus. See also the Ontologies and Controlled Vocabularies section below.
 
 [Back to Top](#contents)
 
