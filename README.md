@@ -125,6 +125,7 @@ Some events in BioIE are organized around formal tasks and challenges in which g
 
 * [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) - these workshops have been organized since 2004, with  BioCreative VI happening February 2017 and the [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) held in 2018. See [Datasets](#datasets) below. 
 * [SemEval workshop](http://alt.qcri.org/semeval2020/) - tasks and evaluations in computational semantic analysis. Tasks vary by year but frequently cover scientific and/or biomedical language, e.g. the [SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers](https://competitions.codalab.org/competitions/19948).
+* [eHealth-KD](https://knowledge-learning.github.io/ehealthkd-2019/) - challenges for encouraging "development of software technologies to automatically extract a large variety of knowledge from eHealth documents written in the Spanish Language". Previously held as part of [TASS](http://www.sepln.org/workshops/tass/), an annual workshop for semantic analysis in Spanish.
 
 [Back to Top](#contents)
 
