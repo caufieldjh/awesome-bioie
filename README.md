@@ -27,7 +27,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Journals and Events](#journals-and-events)
   * [Journals](#journals)
   * [Conferences and Other Events](#conferences-and-other-events)
-    * [Challenges](#challenges)
+  * [Challenges](#challenges)
 * [Tutorials](#tutorials)
   * [Guides](#guides)
   * [Video Lectures and Online Courses](#video-lectures-and-online-courses)
@@ -37,12 +37,12 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
   * [Annotation Tools](#annotation-tools)
 * [Techniques](#techniques)
   * [Text Embeddings](#text-embeddings)
-    * [Word Embeddings](#word-embeddings)
-    * [Language Model Based Embeddings](#language-model-based-embeddings)
+  * [Word Embeddings](#word-embeddings)
+  * [Language Models](#language-models)
 * [Datasets](#datasets)
   * [Biomedical Text Sources](#biomedical-text-sources)
   * [Annotated Text Data](#annotated-text-data)
-    * [Protein-protein Interaction Annotated Corpora](#Protein-protein-interaction-annotated-corpora)
+  * [Protein-protein Interaction Annotated Corpora](#Protein-protein-interaction-annotated-corpora)
   * [Other Datasets](#other-datasets)
 * [Ontologies and Controlled Vocabularies](#ontologies-and-controlled-vocabularies)
 * [Data Models](#data-models)
@@ -123,7 +123,7 @@ For preprints, try [arXiv](https://arxiv.org), especially the subjects Computati
 * [ISMB](https://www.iscb.org/about-ismb) - The International Conference on Intelligent Systems for Molecular Biology is an annual conference hosted by the International Society for Computational Biology since 1993. Much of its focus has concerned bioinformatics and computational biology without an explicit clinical focus, though it has included an increasing amount of text mining content (e.g., the 2019 meeting included a [full-day special session on Text Mining for Biology and Healthcare](http://cosi.iscb.org/wiki/TextMining:Home)). The meeting is combined with that of the European Conference on Computational Biology (ECCB) on odd-numbered years.
 * [PSB](https://psb.stanford.edu/) - The Pacific Symposium on Biocomputing.
 
-#### Challenges
+### Challenges
 
 Some events in BioIE are organized around formal tasks and challenges in which groups develop their own computational solutions, given a dataset.
 
@@ -189,12 +189,12 @@ The field changes rapidly enough that tutorials any older than a few years are m
 
 [This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825) demonstrates how text embeddings trained on biomedical or clinical text can, but don't always, perform better on biomedical natural language processing tasks. That being said, pre-trained embeddings may be appropriate for your needs, especially as training domain-specific embeddings can be computationally intensive.
 
-#### Word Embeddings
+### Word Embeddings
 
 * [BioASQword2vec](http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts) - [paper](http://bioasq.lip6.fr/info/BioASQword2vec/) - Qord embeddings derived from biomedical text (>10 million PubMed abstracts) using the popular [word2vec](https://code.google.com/archive/p/word2vec/) tool.
 * [BioWordVec](https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647) - [paper](https://www.nature.com/articles/s41597-019-0055-0) - [code](https://github.com/ncbi-nlp/BioWordVec) - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH.
 
-#### Language Model Based Embeddings
+### Language Models
 
 * [BioBERT](https://github.com/naver/biobert-pretrained) - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
 * ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
@@ -227,7 +227,7 @@ The following resources contain indexed text documents in the biomedical science
 * [PubTator Central datasets](https://www.ncbi.nlm.nih.gov/research/pubtator/) - [paper](https://academic.oup.com/nar/article/47/W1/W587/5494727) - Accessible through a RESTful API or FTP download. Includes annotations for >29 million abstracts and ∼3 million full text documents.
 * [Word Sense Disambiguation (WSD)](https://wsd.nlm.nih.gov/) - [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-223) - 203 ambiguous words and 37,888 automatically extracted instances of their use in biomedical research publications. Requires UTS account.
 
-#### Protein-protein Interaction Annotated Corpora
+### Protein-protein Interaction Annotated Corpora
 Protein-protein interactions are abbreviated as PPI. The following sets are available in [BioC format](http://bioc.sourceforge.net/). The older sets (AIMed, BioInfer, HPRD50, IEPA, and LLL) are available courtesy of the [WBI corpora repository](http://corpora.informatik.hu-berlin.de) and were originally derived from the original sets by a [group at Turku University](http://mars.cs.utu.fi/PPICorpora/).
 
 * [AIMed](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/aimed_bioc.xml.zip) - [paper](https://www.ncbi.nlm.nih.gov/pubmed/15811782) - 225 MEDLINE abstracts annotated for PPI.
