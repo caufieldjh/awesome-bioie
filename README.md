@@ -6,7 +6,7 @@
  </a>
 </div>
 
-A curated list of resources dedicated to Biomedical Information Extraction (BioIE).
+How to extract information from unstructured biomedical data and text.
 
 ![Awesome BioIE Logo](/images/abie_head.png)
 
