@@ -40,6 +40,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
     * [Word Embeddings](#word-embeddings)
     * [Language Model Based Embeddings](#language-model-based-embeddings)
 * [Datasets](#datasets)
+  * [Biomedical Text Sources](#biomedical-text-sources)
   * [Annotated Text Data](#annotated-text-data)
     * [Protein-protein Interaction Annotated Corpora](#Protein-protein-interaction-annotated-corpora)
   * [Other Datasets](#other-datasets)
