@@ -46,7 +46,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Ontologies and Controlled Vocabularies](#ontologies-and-controlled-vocabularies)
 * [Data Models](#data-models)
 * [Credits](#credits)
-* [License](#license)
 
 ## Research Overviews
 
