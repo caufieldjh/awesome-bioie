@@ -1,6 +1,10 @@
 # Awesome Biomedical Information Extraction (BioIE)
 
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+<div align="center">
+ <a href="https://awesome.re">
+	<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+ </a>
+</div>
 
 A curated list of resources dedicated to Biomedical Information Extraction (BioIE).
 
