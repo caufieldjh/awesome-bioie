@@ -127,6 +127,7 @@ For preprints, try [arXiv](https://arxiv.org), especially the subjects Computati
 
 Some events in BioIE are organized around formal tasks and challenges in which groups develop their own computational solutions, given a dataset.
 
+* [BioASQ](http://bioasq.org/) - Challenges on biomedical semantic indexing and question answering. Challenges and workshops held annually since 2013.
 * [BioCreAtIvE workshop](https://biocreative.bioinformatics.udel.edu/) - These workshops have been organized since 2004, with  BioCreative VI happening February 2017 and the [BioCreative/OHNLP Challenge](https://sites.google.com/view/ohnlp2018/home) held in 2018. See [Datasets](#datasets) below. 
 * [SemEval workshop](http://alt.qcri.org/semeval2020/) - Tasks and evaluations in computational semantic analysis. Tasks vary by year but frequently cover scientific and/or biomedical language, e.g. the [SemEval-2019 Task 12 on Toponym Resolution in Scientific Papers](https://competitions.codalab.org/competitions/19948).
 * [eHealth-KD](https://knowledge-learning.github.io/ehealthkd-2019/) - Challenges for encouraging "development of software technologies to automatically extract a large variety of knowledge from eHealth documents written in the Spanish Language". Previously held as part of [TASS](http://www.sepln.org/workshops/tass/), an annual workshop for semantic analysis in Spanish.
