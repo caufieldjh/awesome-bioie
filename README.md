@@ -240,6 +240,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 
 ### Other Datasets
 
+* [Columbia Open Health Data](http://cohd.io) - [paper](https://www.nature.com/articles/sdata2018273) - A database of prevalence and co-occurrence frequencies of conditions, drugs, procedures, and patient demographics extracted from electronic health records. Does not include original record text.
 * [MIMIC-III](https://mimic.physionet.org/) - [paper](https://www.nature.com/articles/sdata201635) - Deidentified health data from ~60,000 intensive care unit admissions. Requires completion of an online training course (CITI training) and acceptance of a data use agreement prior to use.
 * [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/) - The MIMIC Chest X-Ray database. Contains more than 377,000 radiographic images and accompanying free-text radiology reports. As with MIMIC-III, requires acceptance of a data use agreement.
 * [UMLS Knowledge Sources](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html) - [reference manual](https://www.ncbi.nlm.nih.gov/books/NBK9676/) - A large and comprehensive collection of biomedical terminology and identifiers, as well as accompanying tools and scripts. Depending on your purposes, the single file MRCONSO.RRF may be sufficient, as this file contains unique identifiers and names for all concepts in the UMLS Metathesaurus. See also the Ontologies and Controlled Vocabularies section below.
