@@ -1,11 +1,14 @@
 # Awesome Biomedical Information Extraction (BioIE)
 
 <div align="center">
- <a href="https://awesome.re">
-	<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
- </a>
-How to extract information from unstructured biomedical data and text.
-![Awesome BioIE Logo](/images/abie_head.png)
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</a>
+	<br>
+	How to extract information from unstructured biomedical data and text.
+	<br>
+	<img src="https://github.com/caufieldjh/awesome-bioie/blob/master/images/abie_head.png" alt="Awesome BioIE Logo"/>
+	<br>
 </div>
 
 What is BioIE? It includes any effort to extract structured information from _unstructured_ (or, at least inconsistently structured) biological, clinical, or other biomedical data. The data source is often some collection of text documents written in technical language. If the resulting information is verifiable and consistent across sources, we may then consider it _knowledge_. Extracting information and producing knowledge from bio data requires adaptations upon methods developed for other types of unstructured data.
