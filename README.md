@@ -15,9 +15,7 @@ What is BioIE? It includes any effort to extract structured information from _un
 
 See also [awesome-nlp](https://github.com/keon/awesome-nlp), [awesome-biology](https://github.com/raivivek/awesome-biology) and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics).
 
-Resources included here should preferentially be available at no monetary cost and limited license requirements (i.e., few commercial platforms should be listed). Also omitted: methods without publicly accessible code, datasets without public means of access, tools without documentation, and older versions of existing platforms.
-
-Where possible, tools and resource entries include links to corresponding papers. If an open-access version of the paper is not available, this link should be either a PubMed citation entry or a link to another citation database.
+Resources included here are preferentially those available at no monetary cost and limited license requirements (i.e., few commercial platforms are included). Also avoided: methods without publicly accessible code, datasets without public means of access, tools without documentation, and older versions of existing platforms. Where possible, tools and resource entries include links to corresponding papers. If an open-access version of the paper is not available, this link should be either a PubMed citation entry or a link to another citation database.
 
 _Please read the [contribution guidelines](contributing.md) before contributing. Please add your favourite resource by raising a [pull request](https://github.com/caufieldjh/awesome-bioie/pulls)._
 
