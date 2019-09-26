@@ -272,5 +272,6 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 [Credits](./CREDITS.md) for initial curators and sources.
 
 ## License
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-[License](./LICENSE) - CC0
+[License](./LICENSE)
