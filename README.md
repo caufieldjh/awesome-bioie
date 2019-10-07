@@ -92,6 +92,8 @@ Biomedical IE, text mining, natural language processing, and data management is 
 
 * [Zaklab](http://zaklab.org) - Group led by Dr. Isaac Kohane at Harvard Medical School's Department of Biomedical Informatics. Dr. Kohane is also a steward of the n2c2 (formerly i2b2) datasets - see [Datasets](#datasets) below.
 
+* [Columbia University Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) - Led by Drs. George Hripcsak and Noémie Elhadad. [Dr. Carol Friedman](https://www.dbmi.columbia.edu/people/carol-friedman/) is on the faculty.
+
 [Back to Top](#contents)
 
 ## Organizations
