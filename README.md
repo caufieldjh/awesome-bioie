@@ -59,7 +59,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 [Back to Top](#contents)
 
 ## Groups Active in the Field
-Biomedical IE, text mining, natural language processing, and data management is an active field of research and development with a rich history. Some research groups have roots in medical libraries and are primarily concerned with how to best organize biomedical literature and data. Others approach biomedical questions from a computer science perspective. Still other groups are based in biology and medicine, but have found that computational strategies for learning from large datasets are informative and useful. Because of the interdisciplinary nature of much of this work, it may be described in a variety of terms, including _(bio)medical informatics_, _computational biology_, or _bioinformatics_ (though the last of these generally concerns structured data such as DNA or protein sequences). The following groups have not been separated on the basis of their perspectives (as with all other sections, this list is vastly incomplete).
 
 * [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) - Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project.
 
