@@ -39,7 +39,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 * [Datasets](#datasets)
   * [Biomedical Text Sources](#biomedical-text-sources)
   * [Annotated Text Data](#annotated-text-data)
-  * [Protein-protein Interaction Annotated Corpora](#Protein-protein-interaction-annotated-corpora)
+  * [Protein-protein Interaction Annotated Corpora](#protein-protein-interaction-annotated-corpora)
   * [Other Datasets](#other-datasets)
 * [Ontologies and Controlled Vocabularies](#ontologies-and-controlled-vocabularies)
 * [Data Models](#data-models)
