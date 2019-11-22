@@ -65,31 +65,31 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
   * [KnowEng](https://knoweng.org/about/people/) - Based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han.
   * [Mobilize](http://mobilize.stanford.edu/) - Based at Stanford. Led by Dr. Scott Delp.
 
-* [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - Based at Brown University. Its director is Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
+* [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - Based at Brown University and directed by Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
 
-* [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver. Led by Larry Hunter. [See their GitHub repos here.](https://github.com/UCDenver-ccp)
+* [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver and led by Larry Hunter - [see their GitHub repos here.](https://github.com/UCDenver-ccp)
 
 * Groups at U.S. National Institutes of Health (NIH) / National Library of Medicine (NLM):
   * [Demner-Fushman group at NLM](https://www.lhncbc.nlm.nih.gov/personnel/dina-demner-fushman)
-  * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - Based at the National Center for Biotechnology Information (NCBI). Develops improvements to biomedical literature search and curation (e.g., through PubMed). Led by Dr. Zhiyong Lu.
+  * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - Develops improvements to biomedical literature search and curation (e.g., through PubMed), led by Dr. Zhiyong Lu.
 
-* [JensenLab](https://jensenlab.org/) - Based at the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen, Denmark. Led by Dr. Lars Juhl Jensen. 
+* [JensenLab](https://jensenlab.org/) - Based at the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen, Denmark. 
 
-* [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - Based at the University of Manchester, NaCTeM is concerned with text mining in general but has a particular focus on biomedical applications. Its director is Prof. Sophia Ananiadou.
+* [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - Based at the University of Manchester and led by Prof. Sophia Ananiadou, NaCTeM is concerned with text mining in general but has a particular focus on biomedical applications.
 
-* [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - Several groups at Mayo Clinic have made major contributions to BioIE over the past 20 years. The Apace cTAKES platform was developed here. The program is led by Dr. Hongfang Liu.
+* [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - Several groups at Mayo Clinic have made major contributions to BioIE (for example, the Apache cTAKES platform) over the past 20 years.
 
-* [Monarch Initiative](https://monarchinitiative.org/) - A joint effort between groups at Oregon State University, Oregon Health & Science University, Lawrence Berkeley National Lab, The Jackson Laboratory, and several others. Seeking to "...integrate biological information using semantics, and present it in a novel way, leveraging phenotypes to bridge the knowledge gap".
+* [Monarch Initiative](https://monarchinitiative.org/) - A joint effort between groups at Oregon State University, Oregon Health & Science University, Lawrence Berkeley National Lab, The Jackson Laboratory, and several others, seeking to "integrate biological information using semantics, and present it in a novel way, leveraging phenotypes to bridge the knowledge gap".
 
-* [TurkuNLP](https://turkunlp.org/) - Based at the University of Turku. Concerned with NLP in general with a focus on BioNLP and clinical applications.
+* [TurkuNLP](https://turkunlp.org/) - Based at the University of Turku and concerned with NLP in general with a focus on BioNLP and clinical applications.
 
-* [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) - Based in the University of Texas Health Science Center at Houston, School of Biomedical Informatics. Led by Dr. Hua Xu.
+* [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) - Based in the University of Texas Health Science Center at Houston, School of Biomedical Informatics and led by Dr. Hua Xu.
 
-* [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - Based at Virginia Commonwealth University. Led by Dr. Bridget McInnes.
+* [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - Based at Virginia Commonwealth University and led by Dr. Bridget McInnes.
 
-* [Zaklab](http://zaklab.org) - Group led by Dr. Isaac Kohane at Harvard Medical School's Department of Biomedical Informatics. Dr. Kohane is also a steward of the n2c2 (formerly i2b2) datasets - see [Datasets](#datasets) below.
+* [Zaklab](http://zaklab.org) - Group led by Dr. Isaac Kohane at Harvard Medical School's Department of Biomedical Informatics (Dr. Kohane is also a steward of the n2c2 (formerly i2b2) datasets - see [Datasets](#datasets) below).
 
-* [Columbia University Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) - Led by Drs. George Hripcsak and Noémie Elhadad. [Dr. Carol Friedman](https://www.dbmi.columbia.edu/people/carol-friedman/) is on the faculty.
+* [Columbia University Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) - Led by Drs. George Hripcsak and Noémie Elhadad.
 
 [Back to Top](#contents)
 
