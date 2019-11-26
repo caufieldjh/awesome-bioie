@@ -60,36 +60,23 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Groups Active in the Field
 
 * [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) - Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project.
-
 * [BD2K](https://commonfund.nih.gov/bd2k) - The U.S. National Institutes of Health (NIH) funded 13 Centers of Excellence through their Big Data to Knowledge (BD2K) program, several of which developed tools and resources for BioIE.
   * [HeartBD2K](http://www.heartbd2k.org/) - Based at University of California, Los Angeles (UCLA). Led by Dr. Peipei Ping.
   * [KnowEng](https://knoweng.org/about/people/) - Based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han.
   * [Mobilize](http://mobilize.stanford.edu/) - Based at Stanford. Led by Dr. Scott Delp.
-
 * [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - Based at Brown University and directed by Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
-
 * [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver and led by Larry Hunter - [see their GitHub repos here.](https://github.com/UCDenver-ccp)
-
 * Groups at U.S. National Institutes of Health (NIH) / National Library of Medicine (NLM):
   * [Demner-Fushman group at NLM](https://www.lhncbc.nlm.nih.gov/personnel/dina-demner-fushman)
   * [BioNLP group at NCBI](https://www.ncbi.nlm.nih.gov/research/bionlp/) - Develops improvements to biomedical literature search and curation (e.g., through PubMed), led by Dr. Zhiyong Lu.
-
 * [JensenLab](https://jensenlab.org/) - Based at the Novo Nordisk Foundation Center for Protein Research at the University of Copenhagen, Denmark. 
-
 * [National Centre for Text Mining (NaCTeM)](http://www.nactem.ac.uk/) - Based at the University of Manchester and led by Prof. Sophia Ananiadou, NaCTeM is concerned with text mining in general but has a particular focus on biomedical applications.
-
 * [Mayo Clinic's clinical natural language processing program](https://www.mayo.edu/research/departments-divisions/department-health-sciences-research/medical-informatics/projects) - Several groups at Mayo Clinic have made major contributions to BioIE (for example, the Apache cTAKES platform) over the past 20 years.
-
 * [Monarch Initiative](https://monarchinitiative.org/) - A joint effort between groups at Oregon State University, Oregon Health & Science University, Lawrence Berkeley National Lab, The Jackson Laboratory, and several others, seeking to "integrate biological information using semantics, and present it in a novel way, leveraging phenotypes to bridge the knowledge gap".
-
 * [TurkuNLP](https://turkunlp.org/) - Based at the University of Turku and concerned with NLP in general with a focus on BioNLP and clinical applications.
-
 * [UTHealth Houston Biomedical Natural Language Processing Lab](https://sbmi.uth.edu/nlp/) - Based in the University of Texas Health Science Center at Houston, School of Biomedical Informatics and led by Dr. Hua Xu.
-
 * [VCU Natural Language Processing Lab](https://nlp.cs.vcu.edu/) - Based at Virginia Commonwealth University and led by Dr. Bridget McInnes.
-
 * [Zaklab](http://zaklab.org) - Group led by Dr. Isaac Kohane at Harvard Medical School's Department of Biomedical Informatics (Dr. Kohane is also a steward of the n2c2 (formerly i2b2) datasets - see [Datasets](#datasets) below).
-
 * [Columbia University Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) - Led by Drs. George Hripcsak and Noémie Elhadad.
 
 [Back to Top](#contents)
