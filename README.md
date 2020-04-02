@@ -145,6 +145,7 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [medaCy](https://github.com/NLPatVCU/medaCy) - A system for building predictive medical natural language processing models. Built on the [spaCy](https://spacy.io/) framework. 
 * [ScispaCy](https://github.com/allenai/SciSpaCy) - [paper](https://arxiv.org/abs/1902.07669) - A version of the [spaCy](https://spacy.io/) framework for scientific and biomedical documents.
 * [rentrez](https://github.com/ropensci/rentrez) - R utilities for accessing NCBI resources, including PubMed.
+* [Med7](https://medium.com/@kormilitzin/med7-clinical-information-extraction-system-in-python-and-spacy-5e6f68ab1c68) - [paper](https://arxiv.org/abs/2003.01271) - [code](https://github.com/kormilitzin/med7) - a Python package and model (for use with spaCy) for doing NER with medication-related concepts.
 
 ### Repos for Specific Datasets
 
