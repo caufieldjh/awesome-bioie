@@ -241,6 +241,7 @@ Protein-protein interactions are abbreviated as PPI. The following sets are avai
 * [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/) - The MIMIC Chest X-Ray database. Contains more than 377,000 radiographic images and accompanying free-text radiology reports. As with MIMIC-III, requires acceptance of a data use agreement.
 * [UMLS Knowledge Sources](https://www.nlm.nih.gov/research/umls/licensedcontent/umlsknowledgesources.html) - [reference manual](https://www.ncbi.nlm.nih.gov/books/NBK9676/) - A large and comprehensive collection of biomedical terminology and identifiers, as well as accompanying tools and scripts. Depending on your purposes, the single file MRCONSO.RRF may be sufficient, as this file contains unique identifiers and names for all concepts in the UMLS Metathesaurus. See also the Ontologies and Controlled Vocabularies section below.
 * [MIMIC-IV](https://mimic-iv.mit.edu/) - An update to MIMIC-III's multimodal patient data, now covering more recent years of admissions, plus a new data structure, emergency department records, and links to MIMIC-CXR images.
+* [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) - [paper](https://www.nature.com/articles/sdata2018178) - a database of observations from more than 200 thousand intensive care unit admissions, with consistent structure. Requires registration, training course completion, and data use agreement.
 
 [Back to Top](#contents)
 
