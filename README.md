@@ -12,6 +12,8 @@
 
 What is BioIE? It includes any effort to extract structured information from _unstructured_ (or, at least inconsistently structured) biological, clinical, or other biomedical data. The data source is often some collection of text documents written in technical language. If the resulting information is verifiable and consistent across sources, we may then consider it _knowledge_. Extracting information and producing knowledge from bio data requires adaptations upon methods developed for other types of unstructured data.
 
+BioIE has undergone massive changes since the introduction of language models like BERT and the more recently created Large Language Models (LLMs; e.g., GPT-3/4, LLAMA2/3, Gemini, etc).
+
 Resources included here are preferentially those available at no monetary cost and limited license requirements. Methods and datasets should be publicly accessible and actively maintained.
 
 See also [awesome-nlp](https://github.com/keon/awesome-nlp), [awesome-biology](https://github.com/raivivek/awesome-biology) and [Awesome-Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics).
@@ -48,6 +50,13 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Research Overviews
 
+### LLMs in Biomedical IE
+* [Large language models in healthcare: A comprehensive benchmark](http://dx.doi.org/10.1101/2024.04.24.24306315) - a statistical and human evaluation of sixteen different LLMs applied to medical language tasks.
+* [Assessing the research landscape and clinical utility of large language models: a scoping review](https://doi.org/10.1186/s12911-024-02459-6) - a high-level review of LLM applications in medicine as of March 2024.
+* [Ethical and regulatory challenges of large language models in medicine](https://doi.org/10.1016/s2589-7500(24)00061-x) - a review of ethical issues arising from applications of LLMs in biomedicine.
+* [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](http://dx.doi.org/10.1145/3442188.3445922) - a frequently referenced but still relevant work concerning the roles, applications, and risks of language models.
+
+### Pre-LLM Overviews
 * [Biomedical Informatics on the Cloud: A Treasure Hunt for Advancing Cardiovascular Medicine](https://www.ahajournals.org/doi/full/10.1161/CIRCRESAHA.117.310967) - An overview of how BioIE and bioinformatics workflows can be applied to questions in cardiovascular health and medicine research.
 * [Clinical information extraction applications: A literature review](https://www.sciencedirect.com/science/article/pii/S1532046417302563) - A review of clinical IE papers published as of September 2016. From Mayo Clinic group (see below).
 * [Literature Based Discovery: Models, methods, and trends](https://www.sciencedirect.com/science/article/pii/S1532046417301909) - A review of Literature Based Discovery (LBD), or the philosophy that meaningful connections may be found between seemingly unrelated scientific literature. 
