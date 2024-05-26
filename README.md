@@ -69,10 +69,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Groups Active in the Field
 
 * [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) - Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project.
-* [BD2K](https://commonfund.nih.gov/bd2k) - The U.S. National Institutes of Health (NIH) funded 13 Centers of Excellence through their Big Data to Knowledge (BD2K) program, several of which developed tools and resources for BioIE.
-  * [HeartBD2K](http://www.heartbd2k.org/) - Based at University of California, Los Angeles (UCLA). Led by Dr. Peipei Ping.
-  * [KnowEng](https://knoweng.org/about/people/) - Based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han.
-  * [Mobilize](http://mobilize.stanford.edu/) - Based at Stanford. Led by Dr. Scott Delp.
 * [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - Based at Brown University and directed by Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
 * [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver and led by Larry Hunter - [see their GitHub repos here.](https://github.com/UCDenver-ccp)
 * Groups at U.S. National Institutes of Health (NIH) / National Library of Medicine (NLM):
