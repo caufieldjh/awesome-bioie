@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/caufieldjh/awesome-bioie/blob/master/images/abie_head.png" alt="Awesome BioIE Logo"/>
+	<img src="https://github.com/caufieldjh/awesome-bioie/blob/main/images/abie_head.png" alt="Awesome BioIE Logo"/>
 	<br>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
