@@ -128,15 +128,16 @@ Some events in BioIE are organized around formal tasks and challenges in which g
 
 ## Tutorials
 
-The field changes rapidly enough that tutorials any older than a few years are missing crucial details. A few more recent educational resources are listed below. A good foundational understanding of text mining techniques is very helpful, as is some basic experience with the Python and or R languages. Starting with the [NLTK tutorials](https://www.nltk.org/book/) and then trying out the tutorials for the [Flair framework](https://github.com/zalandoresearch/flair) will provide excellent examples of natural language processing, text mining, and modern machine learning-driven methods, all in Python. Most of the examples don't include anything biomedical, however, so the best option may be to learn by doing.
+The field changes rapidly enough that tutorials any older than a few years are missing crucial details. A few more recent educational resources are listed below. A good foundational understanding of text mining techniques is very helpful, as is some basic experience with the Python and or R languages. The best option may be to learn by doing.
 
-### Guides
+### LLM Guides
+
+_TBD - watch this space!_
+
+### Pre-LLM Guides, Lectures, and Courses
 
 * [Getting Started in Text Mining](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040020) - A brief introduction to bio-text mining from Cohen and Hunter. More than ten years old but still quite relevant. See also an [earlier paper by the same authors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1702322/).
 * [Biomedical Literature Mining](https://link.springer.com/book/10.1007/978-1-4939-0709-0) - A (non-free) volume of Methods in Molecular Biology from 2014. Chapters covers introductory principles in text mining, applications in the biological sciences, and potential for use in clinical or medical safety scenarios. 
-
-### Video Lectures and Online Courses
-
 * [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
 * [JensenLab text mining exercises](https://jensenlab.org/training/textmining/)
 * [VIB text mining and curation training](https://www.bits.vib.be/training-list/111-bits/training/previous-trainings/183-text-mining) - This training workshop happenened in 2013 but the slides are still online.
