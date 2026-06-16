@@ -169,6 +169,7 @@ _TBD - watch this space!_
 * [SemEHR](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 * [TaggerOne](https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/taggerone/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018376/) - Performs concept normalization (see also DNorm above). Can be trained for specific concept types and can perform NER independent of other normalization functions.
 * [TabInOut](https://github.com/nikolamilosevic86/TabInOut) - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
+* [Superhighway](https://superhighway.walls.sh) - A web search API for AI agents (search, news, scrape, research) usable for building biomedical literature and clinical trial retrieval pipelines. See the [healthcare research agent guide](https://superhighway.walls.sh/guides/healthcare-research-agent) for a Python example that searches for clinical trials and treatment guidelines, scrapes study details and inclusion criteria, and extracts structured information into a research brief. Pay-per-call or free API key.
 
 ### Annotation Tools
 
