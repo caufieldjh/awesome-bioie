@@ -169,6 +169,7 @@ _TBD - watch this space!_
 * [SemEHR](https://github.com/CogStack/CogStack-SemEHR) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6019046/) - an IE infrastructure for electronic health records (EHR). Built on the [CogStack project](https://github.com/CogStack).
 * [TaggerOne](https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/taggerone/) - [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5018376/) - Performs concept normalization (see also DNorm above). Can be trained for specific concept types and can perform NER independent of other normalization functions.
 * [TabInOut](https://github.com/nikolamilosevic86/TabInOut) - [paper](https://link.springer.com/article/10.1007/s10032-019-00317-0) - a framework for IE from tables in the literature.
+* [Paper Possum](https://paperpossum.info/) - Finds mentions of human germline variants under alternate names in articles and supplementary tables. A [public MYH7 summary](https://paperpossum.info/v/MYH7-c.2525G-A-9351264) is available without signing in. New searches require an account and are free during beta.
 
 ### Annotation Tools
 
